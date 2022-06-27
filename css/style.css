@@ -1,0 +1,25 @@
+* {    
+    background: url(../image/background.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.card{
+    margin-top: 10px;
+    display: grid;
+    border: solid 3px rgb(196, 127, 127);
+    border-radius: 10px;
+    width: 350px;
+    
+
+}
+
+
+.card button{
+    margin-top: 5px;
+
+    margin-left: 280px;
+    width: 25px;
+    background-color:#39ADAD;
+    color: white;
+    
+}
